@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 My prettiest projects are:
+   - [x] [ft_transcendence](https://github.com/mli42/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
    - [x] [minishell](https://github.com/mli42/at42minishell) - Reproduce a basic shell like bash (C)
    - [x] [cub3D](https://github.com/mli42/at42cub3D) - A small game using RayCasting like Wolfenstein 3D (C)
 
