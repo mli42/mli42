@@ -1,18 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center" dir="auto">Hi there 👋</h1>
+
+💻 [**Check my website**](https://mli42.github.io/)
+
+📄 **Online resume**: [**FR**](https://mli42.github.io/MarcLi-CV.pdf) | [**EN**](https://mli42.github.io/MarcLi-Resume.pdf)
+
+</div>
 
 🔭 My prettiest projects are:
-   - [x] [ft_transcendence](https://github.com/mli42/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
-   - [x] [minishell](https://github.com/mli42/at42minishell) - Reproduce a basic shell like bash (C)
-   - [x] [cub3D](https://github.com/mli42/at42cub3D) - A small game using RayCasting like Wolfenstein 3D (C)
+  - [x] [ft_transcendence](https://github.com/mli42/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
+  - [x] [minishell](https://github.com/mli42/at42minishell) - Reproduce a basic shell like bash (C)
+  - [x] [cub3D](https://github.com/mli42/at42cub3D) - A small game using RayCasting like Wolfenstein 3D (C)
 
-If you are a student from 42, check my:
-   - Testers for:
-     - [ft_containers](https://github.com/mli42/at42ft_containers): [containers_test](https://github.com/mli42/containers_test) - Reimplement 5 containers of the STL (C++)
-     - [libasm](https://github.com/mli42/at42libasm): [mlibasm_tester](https://github.com/mli42/mlibasm_tester) - Small library (ASM 64 bits Intel) 
-     - [ft_printf](https://github.com/mli42/at42printf): [printf_test](https://github.com/mli42/printf_test) - Recode printf from scratch using variadic arguments (C)
-   - READMEs for some tips:
-     - [ft_services](https://github.com/mli42/at42ft_services) - Deploy a cluster of WebApps (Kubernetes / Docker)
-     - [Philosophers](https://github.com/mli42/at42Philosophers) - Philosophers Dining Problem (C)
+If you are a student from 42, check my testers for:
+  - [ft_containers](https://github.com/mli42/at42ft_containers): [containers_test](https://github.com/mli42/containers_test) - Reimplement 5 containers of the STL (C++)
+  - [libasm](https://github.com/mli42/at42libasm): [mlibasm_tester](https://github.com/mli42/mlibasm_tester) - Small library (ASM 64 bits Intel) 
+  - [ft_printf](https://github.com/mli42/at42printf): [printf_test](https://github.com/mli42/printf_test) - Recode printf from scratch using variadic arguments (C)
 
 ## GitHub Statistics
 
