@@ -5,9 +5,12 @@
 
 📄 **Online resume**: [**FR**](https://mli42.github.io/MarcLi-CV.pdf) | [**EN**](https://mli42.github.io/MarcLi-Resume.pdf)
 
+&#129418; **I am on [Gitlab](https://gitlab.com/mli42) too**
+
 </div>
 
 🔭 My prettiest projects are:
+  - [x] [Nyffin](https://gitlab.com/mli42/nyffin) - A static website for an esport team ([nyffin.com](https://www.nyffin.com/))
   - [x] [ft_transcendence](https://github.com/mli42/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
   - [x] [minishell](https://github.com/mli42/at42minishell) - Reproduce a basic shell like bash (C)
   - [x] [cub3D](https://github.com/mli42/at42cub3D) - A small game using RayCasting like Wolfenstein 3D (C)
