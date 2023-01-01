@@ -6,9 +6,9 @@
    <span>Junior Software Engineer</span>
 </h1>
 
-💻 **Check my** [**website**](https://mli42.github.io/)
+💻 **Check my** [**website**](https://marcli.com/)
 
-📄 **Online resume**: [**FR**](https://mli42.github.io/MarcLi-CV.pdf) | [**EN**](https://mli42.github.io/MarcLi-Resume.pdf)
+📄 **Online resume**: [**FR**](https://marcli.com/MarcLi-CV.pdf) | [**EN**](https://marcli.com/MarcLi-Resume.pdf)
 
 <div>
    <!-- GitHub -->
@@ -29,6 +29,7 @@
 
 🔭 My prettiest projects are:
   - [x] [Nyffin](https://gitlab.com/mli42/nyffin) - A static website for an esport team ([nyffin.com](https://www.nyffin.com/))
+  - [x] [Portfolio](https://gitlab.com/mli42/portfolio) - My portfolio where one can download my resume ([marcli.com](https://marcli.com/))
   - [x] [ft_transcendence](https://github.com/mli42/ft_transcendence) - Build a website to play pong games (TypeScript frameworks)
   - [x] [minishell](https://github.com/mli42/at42minishell) - Reproduce a basic shell like bash (C)
   - [x] [cub3D](https://github.com/mli42/at42cub3D) - A small game using RayCasting like Wolfenstein 3D (C)
