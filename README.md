@@ -28,6 +28,7 @@
 </div>
 
 ✨ Some pretty projects:
+  - 2XKalendar - 2XKalendar shows upcoming French and online 2XKO and SSBU tournaments ([2xkalendar.fr](https://2xkalendar.fr))
   - [Kernel From Scratch](https://github.com/mli42/at42kfs) - Partial re-implementation of a i386 kernel (Rust)
   - [Nyffin](https://gitlab.com/mli42/nyffin) - A static website for an esport team ([nyffin.marcli.com](https://nyffin.marcli.com/))
   - [Portfolio](https://gitlab.com/mli42/portfolio) - My portfolio where one can download my resume ([marcli.com](https://marcli.com/))
