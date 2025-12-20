@@ -3,7 +3,7 @@
 <h1 align="center">
    <span>Hi there 👋, I'm Marc</span>
    <br />
-   <span>Junior Software Engineer</span>
+   <span>Software Engineer</span>
 </h1>
 
 💻 **Check my** [**website**](https://marcli.com/)
